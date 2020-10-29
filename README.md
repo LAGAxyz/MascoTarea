@@ -70,7 +70,7 @@ Si el proyecto no funciona correctamente es posible que se deba a la desactualiz
 
 La API debe tener los siguientes recursos y campos (es importante asignar los mismos tipos de datos indicados)
 
-Recurso: Mascota |
+Recurso: Mascota | ----------
 ------------- | -------------
 **Campo** | **Tipo**
 mascota_id  | Object ID
@@ -81,13 +81,13 @@ mascota_edad | Number
 mascota_colores | String
 mascota_activo | Boolean
 
-Recurso: Raza |
+Recurso: Raza | ----------
 ------------- | -------------
 **Campo** | **Tipo**
 raza_id  | Object ID
 raza_nombre  | String
 
-Recurso: Tipo |
+Recurso: Tipo | ----------
 ------------- | -------------
 **Campo** | **Tipo**
 tipo_id  | Object ID
