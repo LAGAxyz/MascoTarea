@@ -101,4 +101,8 @@ Una vez creada la API con los recursos, campos y tipos de datos mencionados arri
 
 > NOTA: Reemplazar [endpoint] por el recurso a utilizar
 
-**Finalmente** Reemplazar la API Key del proyecto que se encuentra en el archivo `main.562b21ba.chunk.js` por su propia API Key
+**Finalmente** Reemplazar la API Key del proyecto que se encuentra en el archivo `main.562b21ba.chunk.js` por su propia API Key.
+
+------------
+
+Puedes dejar una estrella al repositorio y/o seguirme en mi perfil de GitHub para que estés al tanto de mi CódiGo
