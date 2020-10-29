@@ -44,6 +44,7 @@ Página desarrollada con el uso de distintas tecnologías, teniendo como base fu
 			+ no delete files
 	* .gitignore
 	* asset-manifest.json
+	* Captura.PNG
 	* favicon.ico
 	* index.html
 	* logo192.png
@@ -101,7 +102,7 @@ Una vez creada la API con los recursos, campos y tipos de datos mencionados arri
 
 > NOTA: Reemplazar [endpoint] por el recurso a utilizar
 
-**Finalmente** Reemplazar la API Key del proyecto que se encuentra en el archivo `main.562b21ba.chunk.js` por su propia API Key.
+**Finalmente** Reemplazar la API Key del proyecto que se encuentra en el archivo `main.3161ce7e.chunk.js` por su propia API Key.
 
 ------------
 
