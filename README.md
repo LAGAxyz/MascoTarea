@@ -16,11 +16,11 @@ Página desarrollada con el uso de distintas tecnologías, teniendo como base fu
 
 <h5 align="center">Tecnologías usadas</h3>
 <p align="center">
-    <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" width="40" height="40"/> </a>
-    <a> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="40" height="40"/> </a>
+    <a> <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> </a>
     <a> <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="40" height="40"/> </a>
 </p>
@@ -57,7 +57,7 @@ Página desarrollada con el uso de distintas tecnologías, teniendo como base fu
 
     *Deberías ver algo similar a lo siguiente*
 
-    ![](https://github.com/LAGAxyz/MascoTarea/blob/master/Captura.PNG?raw=true)
+    ![Captura](https://raw.githubusercontent.com/LAGAxyz/MascoTarea/master/Captura.PNG)
     
     > NOTA: Este proyecto necesita una API Key que puede no estar disponible en el momento en que lo ejecutes (para más información, continúa leyendo)
 
