@@ -25,8 +25,6 @@ Página desarrollada con el uso de distintas tecnologías, teniendo como base fu
     <a> <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="40" height="40"/> </a>
 </p>
 
-<p align="center">Puedes ver el proyecto en vivo <a href="https://lagaxyz.github.io/MascoTarea/index.html">aquí</a></p>
-
 ------------
 
 ## Documentación del proyecto:
@@ -103,7 +101,3 @@ Una vez creada la API con los recursos, campos y tipos de datos mencionados arri
 > NOTA: Reemplazar [endpoint] por el recurso a utilizar
 
 **Finalmente** Reemplazar la API Key del proyecto que se encuentra en el archivo `main.3161ce7e.chunk.js` por su propia API Key.
-
-------------
-
-Puedes dejar una estrella al repositorio y/o seguirme en mi perfil de GitHub para que estés al tanto de mi CódiGo
