@@ -1,4 +1,4 @@
-
+﻿
 <h2 align="center">Proyecto Web con React: MascoTarea</h2>
 
 ------------
@@ -100,4 +100,4 @@ Una vez creada la API con los recursos, campos y tipos de datos mencionados arri
 
 > NOTA: Reemplazar [endpoint] por el recurso a utilizar
 
-**Finalmente** Reemplazar la API Key del proyecto que se encuentra en el archivo `main.3161ce7e.chunk.js` por su propia API Key.
+**Finalmente:** Reemplazar la API Key del proyecto que se encuentra en el archivo `main.3161ce7e.chunk.js` por su propia API Key.
